@@ -1,0 +1,7 @@
+<application>
+  <component name="RainbowSettings">
+    <option name="doNOTRainbowifyTemplateString" value="true" />
+    <option name="suppressBigFileCheck" value="true" />
+    <option name="version" value="6.23" />
+  </component>
+</application>

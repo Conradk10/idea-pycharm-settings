@@ -1,0 +1,44 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Russian" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="Я - &lt;b&gt;Prikolx Бот&lt;/b&gt;, бот с играми и прочими интересными штуками!\n\n' \ ' Более подробную инструкцию и описание всех команд ты сможешь найти в &lt;b&gt;/wiki@prikolxbot&lt;/b&gt; !\n\n' \ ' Новости ⇨ &lt;b&gt;@prikolxinfo&lt;/b&gt;\n' \ ' Игровой чат ⇨ &lt;b&gt;@prikolxchat&lt;/b&gt;\n\n' \ '&lt;b&gt;Добавь меня в свой любимый чат и я" />
+            <option value="одинаковые предмет в" />
+            <option value="стр" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="ENGLISH" />
+            <option value="SWEDISH" />
+          </set>
+        </option>
+      </State>
+    </option>
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInStringLiteralsEnabled" value="true" />
+        <option name="enabledLanguages">
+          <set>
+            <option value="JavaScript" />
+            <option value="Properties" />
+            <option value="Python" />
+            <option value="XML" />
+          </set>
+        </option>
+      </CheckingContext>
+    </option>
+  </component>
+</application>
