@@ -1,10 +1,5 @@
 <application>
   <component name="LightEdit">
-    <option name="sessionFiles">
-      <list>
-        <option value="file://$USER_HOME$/Downloads/64Gram Desktop/main (5).py" />
-      </list>
-    </option>
     <option name="frameInfo">
       <frame x="0" y="23" width="1280" height="727" extendedState="6" />
     </option>
