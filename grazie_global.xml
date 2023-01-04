@@ -13,6 +13,8 @@
             <option value="Я - &lt;b&gt;Prikolx Бот&lt;/b&gt;, бот с играми и прочими интересными штуками!\n\n' \ ' Более подробную инструкцию и описание всех команд ты сможешь найти в &lt;b&gt;/wiki@prikolxbot&lt;/b&gt; !\n\n' \ ' Новости ⇨ &lt;b&gt;@prikolxinfo&lt;/b&gt;\n' \ ' Игровой чат ⇨ &lt;b&gt;@prikolxchat&lt;/b&gt;\n\n' \ '&lt;b&gt;Добавь меня в свой любимый чат и я" />
             <option value="одинаковые предмет в" />
             <option value="стр" />
+            <option value="AbstractEventLoop" />
+            <option value="Connection" />
           </set>
         </option>
       </SuppressingContext>
