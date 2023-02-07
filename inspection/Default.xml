@@ -314,6 +314,7 @@
         <option value="telethon.client.telegramclient.TelegramClient.__await__" />
         <option value="int" />
         <option value="property.__await__" />
+        <option value="types.Union.__getitem__" />
       </list>
     </option>
   </inspection_tool>
