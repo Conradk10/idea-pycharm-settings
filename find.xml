@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/profile.py'" />
-    <option name="defaultScopeName" value="File '…/profile.py'" />
+    <option name="customScope" value="Project 'new-tulz-bot'" />
+    <option name="defaultScopeName" value="Project 'new-tulz-bot'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/profile.py'" />
+    <option name="SEARCH_SCOPE" value="Project 'new-tulz-bot'" />
   </component>
 </application>
