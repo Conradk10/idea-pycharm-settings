@@ -1,0 +1,28 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="42037041d0e4a100" />
+          </Key>
+        </key>
+        <name value="samsung SM-G350E" />
+        <target value="Android 5.1" />
+        <api value="androidversion:22:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0123456789ABCD" />
+          </Key>
+        </key>
+        <name value="Prestigio PSP3530DUO" />
+        <target value="Android 5.0" />
+        <api value="androidversion:21:null:null:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>

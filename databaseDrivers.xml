@@ -3,5 +3,8 @@
     <driver id="mariadb">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" channel="fixed" rolling="false" use="true" version="2.7.3" />
     </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.5.0" />
+    </driver>
   </component>
 </application>
