@@ -13,6 +13,7 @@
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="WakaTime" value="false" />
         <entry key="io.unthrottled.doki.ui.status.StatusBarFactory" value="false" />
+        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>

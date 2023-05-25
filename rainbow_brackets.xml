@@ -1,7 +1,9 @@
 <application>
   <component name="RainbowSettings">
     <option name="doNOTRainbowifyTemplateString" value="true" />
+    <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="suppressBigFileCheck" value="true" />
-    <option name="version" value="6.23" />
+    <option name="supressAdvancedIndentGuidesBanner" value="true" />
+    <option name="version" value="2023.2.6-ij" />
   </component>
 </application>
