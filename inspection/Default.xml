@@ -325,6 +325,7 @@
         <option value="property.__await__" />
         <option value="types.Union.__getitem__" />
         <option value="aiogram.utils.mixins.ContextInstanceMixin.__getitem__" />
+        <option value="typing.Generator.__getitem__" />
       </list>
     </option>
   </inspection_tool>
