@@ -326,6 +326,7 @@
         <option value="types.Union.__getitem__" />
         <option value="aiogram.utils.mixins.ContextInstanceMixin.__getitem__" />
         <option value="typing.Generator.__getitem__" />
+        <option value="int.bind" />
       </list>
     </option>
   </inspection_tool>
