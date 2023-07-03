@@ -331,6 +331,7 @@
         <option value="aiogram.utils.mixins.ContextInstanceMixin.__getitem__" />
         <option value="typing.Generator.__getitem__" />
         <option value="int.bind" />
+        <option value="bytes.presence_of_element_located" />
       </list>
     </option>
   </inspection_tool>
