@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="x-net-dc1.duckdns.org" id="a05a310e-d2b4-4970-bec3-a847999883a1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="admin" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="raspberrypi.local" id="a70b3253-0430-4693-b181-a168a18c1224" port="22" nameFormat="DESCRIPTIVE" username="pi" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
