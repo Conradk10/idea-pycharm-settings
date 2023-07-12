@@ -13,7 +13,6 @@
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="FlowJSInfo" value="false" />
         <entry key="TypeScriptInfo" value="false" />
-        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="io.unthrottled.doki.ui.status.StatusBarFactory" value="false" />
       </map>
     </option>
