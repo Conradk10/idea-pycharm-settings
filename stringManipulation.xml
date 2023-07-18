@@ -1,8 +1,10 @@
 <application>
   <component name="StringManipulationState">
-    <option name="lastAction">
+    <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToLowerCaseAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSnakeCaseOrCamelCaseAction" />
+        <option name="description" value="Toggle: snake_case / camelCase" />
+        <option name="textWithMnemonic" value="snake_case / camelCase" />
       </UniversalActionModel>
     </option>
   </component>
